@@ -2,7 +2,7 @@
 
 **Java · Distributed Systems · TCP Sockets · Concurrency**
 
-## Project Summary
+## Project Overview
 
 A **client–server application** that allows multiple clients to concurrently query and modify a shared dictionary over the network. The server guarantees **thread safety**, **data persistence**, and **reliable communication** while handling simultaneous connections.
 
@@ -81,3 +81,7 @@ java -jar DictionaryClient.jar <server-address> <server-port> <sleep-duration>
 - **GUI:** Java Swing / JavaFX
 - **Persistence:** File-based storage
 - **Build:** Executable JARs
+
+## Application Preview
+
+![Application Preview](figures/dictionary_client_server.png)
