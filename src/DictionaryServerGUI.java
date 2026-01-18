@@ -17,7 +17,6 @@ import org.json.*;
  * protocol implementation.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class DictionaryServerGUI extends JFrame {
     // GUI Components

@@ -16,7 +16,6 @@ import org.json.JSONObject;
  * protocol implementation.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class DictionaryClientGUI extends JFrame {
     // GUI Components

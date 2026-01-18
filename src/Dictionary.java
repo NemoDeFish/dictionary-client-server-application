@@ -10,7 +10,6 @@ import com.google.gson.Gson;
  * to the dictionary.
  *
  * @author Si Yong Lim
- * Student ID: 1507003
  */
 public class Dictionary {
     private final HashMap<String, HashSet<String>> dictionary;
